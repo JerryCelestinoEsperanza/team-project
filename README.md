@@ -1,9 +1,9 @@
 # Team Project
 
 ## Members
-- Juan
+- Jeremias
 - Maria
 - Jose
 
 ## Database
-- Db2
+- Postgres
